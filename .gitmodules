@@ -1,0 +1,6 @@
+[submodule "jFeed"]
+	path = jFeed
+	url = https://github.com/jfhovinne/jFeed.git
+[submodule "jPlayer"]
+	path = jPlayer
+	url = https://github.com/happyworm/jPlayer.git
